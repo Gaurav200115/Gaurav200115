@@ -15,7 +15,7 @@ MainActivity : AppCompatActivity() {
       
         val bottom = findViewById<BottomNavigationView>(R.id.bottomNavigationView)
         val navController = findNavController(R.id.fragment)
-        bottom.background = null
-        bottom.setupWithNavController(navController)
+        bottom.background = null  // To hide the bottom in layout
+        bottom.setupWithNavController(navController) // To link the bottom Navigation bar with the fragments
 
     }

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav200115
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning AR VR Development
+- 🌱 I’m currently learning React Native .
 - 📫 How to reach me gm3908827@gmail.com
 
 <!---
